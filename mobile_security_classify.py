@@ -23,7 +23,7 @@ def main():
 
 
 
-  # Classify mobiles . sample sets are 4 mobiles
+  # Classify mobiles .  sample sets are 4 mobiles
   def mobile_to_predict():
     return np.array(
       [[6.4, 2.8, 2.8, 5.6, 5.6, 2.2],
