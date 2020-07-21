@@ -15,7 +15,7 @@
     
     Subsequent rows are data collections , Mobile handset quality , Location , Apps quality etc , and marked with security score pecentage.
     
-#### Rraining 
+#### Training 
 
     Build 3 hidden layers DNN with 10, 20, 10 units respectively. n_classes is the number of classes , for 100% score  , n_classes = 10 for 10% 20% 30% ... 100%
     
